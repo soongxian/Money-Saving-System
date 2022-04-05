@@ -1,0 +1,67 @@
+.spending-total{
+    color: red;
+}
+
+.earning-total{
+    color: blue;
+}
+
+.transfer-color{
+    color: green;
+}
+
+.welcome{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.cust_name{
+    font-weight: 700;
+    color:rgb(52, 121, 121);
+}
+
+.money_big{
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.money_small{
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'poppins', sans-serif;
+
+}
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.container .box
+{
+    position: relative;
+    width: 400px;
+    padding: 40px;
+    background: lightgreen;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    border-radius: 4px;
+    margin: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    -webkit-transition-duration: 1s;
+    /*safari*/
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+
+

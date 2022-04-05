@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Controller/TransactionDAO.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/ShowNewExpenseFormServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/FilterTransactionServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/edit-info.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Controller/BudgetDAO.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/ListFinancialAdvisorServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/ListTransactionServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/ShowEditUserServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/index.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Model/Transaction.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Controller/UserDAO.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Model/Budget.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/manage-financial-statement.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/ShowEditBudgetFormServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/add-expense.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Controller/FinancialAdvisorDAO.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/View/InsertExpenseServlet.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/account.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/edit-budget.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/financial-advisor.jsp</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/src/java/Model/FinancialAdvisor.java</file>
+            <file>file:/C:/Users/RyanLIM/Documents/NetBeansProjects/MoneySavingSystem_MVC/web/budget.jsp</file>
+        </group>
+    </open-files>
+</project-private>
